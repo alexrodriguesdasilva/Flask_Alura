@@ -119,3 +119,15 @@ app.run()
 ```
 
 Execute e veja que agora temos uma lista sendo mostrada pelo navegador!
+
+<h1>O que aprendemos </h1>
+
+1) O que é o Microframework Flask - Quais as suas vantagens em relação a outros frameworks de desenvolvimento web.
+
+2) Como instalar o Flask pelo instalador pip e definir a versão correta como uma boa prática de código.
+
+3) Como definir as primeiras rotas da aplicação através do @app.route.
+
+4) Como integrar linguagem Python e HTML através do Flask e começar a utilizar os nossos primeiros templates de estruturação da aplicação.
+
+5) Como inicializar, pela primeira vez, uma aplicação feita em Flask através do app = Flask(__name__).
